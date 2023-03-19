@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Humpback_t3" modversion="1.0.2" corepackage="False" gameversion="1.0.8.0">
+  <Submarine file="%ModDir%/Humpback_t3.sub" />
+</contentpackage>
